@@ -1,0 +1,32 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "mukesh project swigy",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUKESHKUSHWAHA41866/Swigy.github.io.git"
+  },
+  "keywords": [
+    "swigy"
+  ],
+  "author": "mukesh kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUKESHKUSHWAHA41866/Swigy.github.io/issues"
+  },
+  "homepage": "https://github.com/MUKESHKUSHWAHA41866/Swigy.github.io#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
